@@ -1,0 +1,288 @@
+.ESTONIATRAIL {
+    background-color: #172633;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ESTONIATRAIL .overlap-group-wrapper {
+    background-color: #172633;
+    width: 1728px;
+    height: 4468px;
+  }
+  
+  .ESTONIATRAIL .overlap-group {
+    position: relative;
+    height: 2234px;
+  }
+  
+  .ESTONIATRAIL .image {
+    position: absolute;
+    width: 1728px;
+    height: 1206px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .ESTONIATRAIL .frame {
+    display: flex;
+    width: 219px;
+    height: 63px;
+    align-items: center;
+    gap: 12px;
+    position: absolute;
+    top: 36px;
+    left: 280px;
+  }
+  
+  .ESTONIATRAIL .rectangle {
+    width: 140px;
+    height: 66px;
+    border-radius: 500px;
+    border: 2px solid;
+    border-color: #f3f3f3;
+  }
+  
+  .ESTONIATRAIL .text-wrapper {
+    position: center;
+    width: fit-content;
+    font-family: "Cabin", Helvetica;
+    font-weight: 700;
+    color: #f3f3f3;
+    font-size: 22px;
+    letter-spacing: 0.11px;
+    line-height: 29.2px;
+    white-space: nowrap;
+  }
+  
+  .ESTONIATRAIL .div {
+    position: absolute;
+    width: 39px;
+    height: 56px;
+    top: 4px;
+    left: 3px;
+    border-radius: 500px;
+    border: 2px solid;
+    border-color: #f3f3f3;
+  }
+  
+  .ESTONIATRAIL .line {
+    position: absolute;
+    width: 2px;
+    height: 49px;
+    top: 10px;
+    left: 22px;
+  }
+  
+  .ESTONIATRAIL .img {
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    top: 38px;
+    left: 13px;
+  }
+  
+  .ESTONIATRAIL .line-2 {
+    position: absolute;
+    width: 24px;
+    height: 17px;
+    top: 38px;
+    left: 10px;
+  }
+  
+  .ESTONIATRAIL .line-3 {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    top: 38px;
+    left: 11px;
+  }
+  
+  .ESTONIATRAIL .line-4 {
+    position: absolute;
+    width: 5px;
+    height: 4px;
+    top: 38px;
+    left: 31px;
+  }
+  
+  .ESTONIATRAIL .line-5 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 9px;
+    left: 15px;
+  }
+  
+  .ESTONIATRAIL .line-6 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 9px;
+    left: 22px;
+  }
+  
+  .ESTONIATRAIL .line-7 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 19px;
+    left: 15px;
+  }
+  
+  .ESTONIATRAIL .line-8 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 19px;
+    left: 22px;
+  }
+  
+  .ESTONIATRAIL .line-9 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 29px;
+    left: 15px;
+  }
+  
+  .ESTONIATRAIL .line-10 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 29px;
+    left: 22px;
+  }
+  
+  .ESTONIATRAIL .line-11 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 49px;
+    left: 15px;
+  }
+  
+  .ESTONIATRAIL .line-12 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 49px;
+    left: 22px;
+  }
+  
+  .ESTONIATRAIL .frame-2 {
+    display: flex;
+    width: 480px;
+    align-items: center;
+    gap: 38px;
+    position: absolute;
+    top: 46px;
+    left: 974px;
+  }
+  
+  .ESTONIATRAIL .frame-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 38px;
+    padding: 2px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .ESTONIATRAIL .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Cabin", Helvetica;
+    font-weight: 600;
+    color: #f1f1f1;
+    font-size: 21.3px;
+    letter-spacing: 0.11px;
+    line-height: 28.3px;
+    white-space: nowrap;
+  }
+  
+  .ESTONIATRAIL .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 10px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #263e53;
+    border-radius: 16px;
+  }
+  
+  .ESTONIATRAIL .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #f3f3f3;
+    font-size: 21.3px;
+    letter-spacing: 0.11px;
+    line-height: 28.3px;
+    white-space: nowrap;
+  }
+  
+  .ESTONIATRAIL .h1 {
+    position: absolute;
+    top: 420px;
+    left: 280px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Roboto", Helvetica;
+    font-weight: 800;
+    color: #f0f0f0;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ESTONIATRAIL .text-wrapper-4 {
+    position: absolute;
+    width: 750px;
+    top: 520px;
+    left: 481px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Cabin", Helvetica;
+    font-weight: 700;
+    color: #f4f0f0;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ESTONIATRAIL .vector {
+    position: absolute;
+    width: 1728px;
+    height: 882px;
+    top: 730px;
+    left: 0;
+  }
+  
+  .ESTONIATRAIL .rectangle-2 {
+    position: absolute;
+    width: 1728px;
+    height: 1072px;
+    top: 1162px;
+    left: 0;
+    background-color: #172633;
+    filter: blur(4px);
+    opacity: 0.9;
+  }
+  
+  .ESTONIATRAIL .vector-2 {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    top: 1029px;
+    left: 852px;
+  }
+  
