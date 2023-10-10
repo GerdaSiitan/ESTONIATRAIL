@@ -1,3 +1,3 @@
 # Estoniatrail
 
-first try
+it has an website now; whaaaat
