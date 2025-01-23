@@ -1,3 +1,3 @@
 # Estoniatrail
 
-it has an website now; whaaaat
+Made with FIGMA Plugin when figma was just trying to get these plugins
